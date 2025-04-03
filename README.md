@@ -1,7 +1,7 @@
 # FastAPI Blog API 🚀
 A simple blog API built using FastAPI and SQLAlchemy for database management. This API allows users to create, read, update, and delete (CRUD) posts and comments while ensuring proper authentication and authorization.
 
-📌 Features
+## Features
 
 ✅ User Authentication – Secure login system with token-based authentication.
 
@@ -13,7 +13,7 @@ A simple blog API built using FastAPI and SQLAlchemy for database management. Th
 
 ✅ Database Integration – Uses SQLAlchemy and PostgreSQL
 
-🛠️ Tech Stack
+## Tech Stack
 Backend: FastAPI
 
 Database: PostgreSQL
